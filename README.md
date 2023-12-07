@@ -35,12 +35,10 @@
 </div>
 
 ## Ferramentas que uso:
-<img height="48px" width="48px" alt="Icone css" src="https://skillicons.dev/icons?i=powershell"/>
 [<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
-<img height="48px" width="48px" alt="Icone css" src="https://skillicons.dev/icons?i=vite"/>
 
 ## Experiência de trabalho
 

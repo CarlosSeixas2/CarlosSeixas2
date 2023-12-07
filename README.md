@@ -38,7 +38,7 @@
 
 ## Experiência de trabalho
 
-<img align="left" height="94px" width="94px" alt="RGM" src="[https://uploaddeimagens.com.br/imagens/Z-y1qjU](https://uploaddeimagens.com.br/images/004/684/250/full/rgm.jpg?1701911895)"/>
+<img align="left" height="94px" width="94px" alt="RGM" src="https://uploaddeimagens.com.br/images/004/684/250/full/rgm.jpg?1701911895"/>
 
 **Inteligência Artificial com LGPD** \
 [**Inteligência Artificial com LGPD**] • Estágio \

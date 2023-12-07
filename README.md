@@ -52,3 +52,14 @@ Junho de 2023 - Atualmente \
 Linguagens & Tecnologias: `Python`
 <br/>
 <br/>
+
+## Graduações
+
+<img align="left" height="94px" width="94px" alt="IFPI" src="https://dhg1h5j42swfq.cloudfront.net/2022/07/26083418/concurso-ifpi-edital-retificado.jpg"/>
+
+**Instituto Federal do Piaui** \
+[**Tecnólogo**] • Análise e Desenvolvimento de Sistemas \
+Março de 2023 - Atualmente \
+<br/>
+<br/>
+  

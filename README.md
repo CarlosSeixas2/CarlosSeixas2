@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/styvisonviana/" alt="LinkedIn"/></a>
 
 
-## Minhas staks:
+## Minha stack:
 <div display: "flex">
   <img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=python"/>
   <img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>

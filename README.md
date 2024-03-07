@@ -59,7 +59,7 @@
 <img align="left" height="94px" width="94px" alt="RGM" src="https://uploaddeimagens.com.br/images/004/684/250/full/rgm.jpg?1701911895"/>
 
 **Inteligência Artificial com LGPD** \
-[**Inteligência Artificial com LGPD**] • Estágio \
+[**Inteligência Artificial com LGPD**] • Trabalho Meio Período \
 Junho de 2023 - Atualmente \
 Linguagens & Tecnologias: `Python`
 <br/>

@@ -35,14 +35,6 @@
   <img height="48px" width="48px" alt="Icone Node" src="https://skillicons.dev/icons?i=nodejs"/>
   <img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>
   <img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>
-  <img height="48px" width="48px" alt="Icone Sass" src="https://skillicons.dev/icons?i=sass"/>
-  <img height="48px" width="48px" alt="Icone Php" src="https://skillicons.dev/icons?i=php"/>
-  <img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=java"/>
-  <img height="48px" width="48px" alt="Icone html" src="https://skillicons.dev/icons?i=html"/>
-  <img height="48px" width="48px" alt="Icone css" src="https://skillicons.dev/icons?i=css"/>
-  <img height="48px" width="48px" alt="Icone sequelize" src="https://skillicons.dev/icons?i=sequelize"/>
-  <img height="48px" width="48px" alt="Icone mongo" src="https://skillicons.dev/icons?i=mongo"/>
-  <img height="48px" width="48px" alt="Icone mysql" src="https://skillicons.dev/icons?i=mysql"/>
   <img height="48px" width="48px" alt="Icone postgres" src="https://skillicons.dev/icons?i=postgres"/>
 </div>
 

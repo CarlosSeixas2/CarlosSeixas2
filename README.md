@@ -25,14 +25,6 @@
   <img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=python"/>
   <img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>
   <img height="48px" width="48px" alt="Icone Node" src="https://skillicons.dev/icons?i=nodejs"/>
-  <img height="48px" width="48px" alt="Icone postgres" src="https://skillicons.dev/icons?i=postgres"/>
-</div>
-
-## Experiência:
-<div display: "flex">
-  <img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=python"/>
-  <img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>
-  <img height="48px" width="48px" alt="Icone Node" src="https://skillicons.dev/icons?i=nodejs"/>
   <img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>
   <img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>
   <img height="48px" width="48px" alt="Icone postgres" src="https://skillicons.dev/icons?i=postgres"/>

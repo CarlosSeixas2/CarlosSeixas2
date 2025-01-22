@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/styvisonviana/" alt="LinkedIn"/></a>
 
 
-## Minha stack:
+## Minha stack
 <div display: "flex">
   <img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=python"/>
   <img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>
@@ -31,7 +31,7 @@
   <img height="48px" width="48px" alt="Icone postgres" src="https://skillicons.dev/icons?i=docker"/>
 </div>
 
-## Ferramentas que uso:
+## Ferramentas que uso
 [<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)

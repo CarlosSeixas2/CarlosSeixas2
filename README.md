@@ -28,6 +28,7 @@
   <img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>
   <img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>
   <img height="48px" width="48px" alt="Icone postgres" src="https://skillicons.dev/icons?i=postgres"/>
+  <img height="48px" width="48px" alt="Icone postgres" src="https://skillicons.dev/icons?i=docker"/>
 </div>
 
 ## Ferramentas que uso:

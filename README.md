@@ -41,7 +41,7 @@
 
 ## Experiência de trabalho
 
-<img align="left" height="94px" width="94px" alt="RGM" src="https://uploaddeimagens.com.br/images/004/684/250/full/rgm.jpg?1701911895"/>
+<img align="left" height="94px" width="94px" alt="RGM" src="https://media.licdn.com/dms/image/v2/C4D0BAQF_dwpU36qwKA/company-logo_200_200/company-logo_200_200/0/1632424407004/rgm_tecnologia_inteligncia_e_processos_logo?e=1749081600&v=beta&t=sKrfd5lLWv-VSgRv-he5oQNy5hIJAfmGJn8TRh8u5PA"/>
 
 **Inteligência Artificial com LGPD** \
 [**Inteligência Artificial com LGPD**] • Trabalho Meio Período \

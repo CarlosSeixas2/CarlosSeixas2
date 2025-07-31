@@ -41,11 +41,20 @@
 
 ## Experiência de trabalho
 
+<img align="left" height="94px" width="94px" alt="RGM" src="https://portifoliocarlosseixas.vercel.app/assets/Eliseu-DXX258VE.jpeg"/>
+
+**Elizeu Martins** \
+[**Desenvolvimento Mobile**] • Trabalho Integral \
+Agosto de 2025 - Presente \
+Linguagens & Tecnologias: `Dart` `Flutter`
+<br/>
+<br/>
+
 <img align="left" height="94px" width="94px" alt="RGM" src="https://portifoliocarlosseixas.vercel.app/assets/logo_rgm-Cs_6FNkm.jpeg"/>
 
-**Inteligência Artificial com LGPD** \
+**RGM Tecnologia** \
 [**Inteligência Artificial com LGPD**] • Trabalho Meio Período \
-Junho de 2023 - Atualmente \
+Junho de 2023 - Julho de 2025 \
 Linguagens & Tecnologias: `Python`
 <br/>
 <br/>

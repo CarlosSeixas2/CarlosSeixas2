@@ -41,7 +41,7 @@
 
 ## Experiência de trabalho
 
-<img align="left" height="94px" width="94px" alt="RGM" src="https://media.licdn.com/dms/image/v2/C4D0BAQF_dwpU36qwKA/company-logo_200_200/company-logo_200_200/0/1632424407004/rgm_tecnologia_inteligncia_e_processos_logo?e=1749081600&v=beta&t=sKrfd5lLWv-VSgRv-he5oQNy5hIJAfmGJn8TRh8u5PA"/>
+<img align="left" height="94px" width="94px" alt="RGM" src="[https://media.licdn.com/dms/image/v2/C4D0BAQF_dwpU36qwKA/company-logo_200_200/company-logo_200_200/0/1632424407004/rgm_tecnologia_inteligncia_e_processos_logo?e=1749081600&v=beta&t=sKrfd5lLWv-VSgRv-he5oQNy5hIJAfmGJn8TRh8u5PA](https://scontent.fthe15-1.fna.fbcdn.net/v/t39.30808-6/243003249_4489276167777109_3981500813347283055_n.png?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEIzLdLSXyzpbWPMosVNL7Ggr1HHUibERqCvUcdSJsRGreueaUFKy_EBs_hJKD_NigTie_5Nh1GvjjIzLQoB1Ke&_nc_ohc=oIwxR8RbrfUQ7kNvwFjq81B&_nc_oc=AdkVQviTkSdorSz8FCtLq8Dffp36Di1-pmYsKFYX-jXpZWCYDE7Wgvu7rtWqEWDCztg&_nc_zt=23&_nc_ht=scontent.fthe15-1.fna&_nc_gid=4Y8_Vh9D5o0pW8JsHOj_aQ&oh=00_AfSg6t2Mm5dT91lI2oquh7GoEYDXdtL78NLWlL5fM4Olgw&oe=6891CE57)"/>
 
 **Inteligência Artificial com LGPD** \
 [**Inteligência Artificial com LGPD**] • Trabalho Meio Período \

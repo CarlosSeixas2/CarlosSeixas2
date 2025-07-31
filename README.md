@@ -65,7 +65,7 @@ Linguagens & Tecnologias: `Python`
 
 **Instituto Federal do Piaui** \
 [**Tecnólogo**] • Análise e Desenvolvimento de Sistemas \
-Março de 2021 - Atualmente \
+Março de 2021 - Fevereiro de 2025 \
 <br/>
 <br/>
   

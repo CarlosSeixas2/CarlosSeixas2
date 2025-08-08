@@ -1,4 +1,4 @@
-<h1> Olá! me chamo Carlos Seixas👋 </h1>
+<h1>Carlos Seixas</h1>
 <br>
 
 <div align="center">

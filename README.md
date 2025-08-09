@@ -71,6 +71,12 @@ Março de 2021 - Fevereiro de 2025
 
 ---
 
+## 🌐 Portfólio
+📁 Confira meus projetos e trabalhos completos:  
+**[🔗 Acessar Portfólio](https://portifoliocarlosseixas.vercel.app/)**
+
+---
+
 ## 📫 Contato
 <a href="mailto:carlosseixasof@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"/>

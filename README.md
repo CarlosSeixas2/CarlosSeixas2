@@ -13,7 +13,6 @@ Desenvolvedor Full Stack e entusiasta de Inteligência Artificial, com experiên
   <img height="48px" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs"/>
   <img height="48px" alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/>
   <img height="48px" alt="JavaScript" src="https://skillicons.dev/icons?i=js"/>
-  <img height="48px" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>
   <img height="48px" alt="Docker" src="https://skillicons.dev/icons?i=docker"/>
   <img height="48px" alt="Flutter" src="https://skillicons.dev/icons?i=flutter"/>
 </div>

@@ -7,16 +7,6 @@
   </a>
 </div>
 
-
-<h2 align='left'>Meus contatos</h2> 
-<p align="left">
-<a href="mailto:carlosseixasof@gmail.com" title="Gmail">
-<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:styvisonviana@gmail.com" alt="Gmail"/></a>
-
-<a href="https://www.linkedin.com/in/carlos-seixas-050b4724a/" title="LinkedIn">
-<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/styvisonviana/" alt="LinkedIn"/></a>
-
-
 ## Minha stack
 <div display: "flex">
   <img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=python"/>
@@ -65,4 +55,13 @@ Linguagens & Tecnologias: `Python`
 Março de 2021 - Fevereiro de 2025 \
 <br/>
 <br/>
+
+<h2 align='left'>Contato</h2> 
+<p align="left">
+<a href="mailto:carlosseixasof@gmail.com" title="Gmail">
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:styvisonviana@gmail.com" alt="Gmail"/></a>
+
+<a href="https://www.linkedin.com/in/carlos-seixas-050b4724a/" title="LinkedIn">
+<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/styvisonviana/" alt="LinkedIn"/></a>
+
   

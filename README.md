@@ -44,11 +44,13 @@ Linguagens & Tecnologias: `Dart` `Flutter`
 <img align="left" height="94px" width="94px" alt="RGM" src="https://portifoliocarlosseixas.vercel.app/assets/logo_rgm-Cs_6FNkm.jpeg"/>
 
 **RGM Tecnologia** \
-[**Desenvolvimento Python**] • Meio Período \
+[**Inteligência Artificial com LGPD**] • Trabalho Meio Período \
 Junho de 2023 - Julho de 2025 \
-Linguagens & Tecnologias: `Python` `Flask` `Pandas` `Gemini`
+Linguagens & Tecnologias: `Python`
 <br/>
 <br/>
+
+
 ---
 
 ## 🎓 Formação Acadêmica

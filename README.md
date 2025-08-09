@@ -21,12 +21,12 @@ Desenvolvedor Full Stack e entusiasta de Inteligência Artificial, com experiên
 ---
 
 ## 🛠 Ferramentas de Trabalho
-[<img height="48px" alt="GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)  
-[<img height="48px" alt="Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)  
-[<img height="48px" alt="VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)  
-[<img height="48px" alt="Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)  
-<img height="48px" alt="PowerShell" src="https://skillicons.dev/icons?i=powershell"/>
-<img height="48px" alt="Vite" src="https://skillicons.dev/icons?i=vite"/>
+[<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+[<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
+[<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
+<img height="48px" width="48px" alt="Icone cass" src="https://skillicons.dev/icons?i=powershell"/>
+<img height="48px" width="48px" alt="Icone css" src="https://skillicons.dev/icons?i=vite"/>
 
 ---
 

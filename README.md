@@ -1,12 +1,3 @@
-<div align="center">
-  <a href="https://github.com/CarlosSeixas2">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosSeixas2&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/CarlosSeixas2">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSeixas2&layout=compact&langs_count=7&theme=dark" alt="Top Languages"/>
-  </a>
-</div>
-
 ## Minha stack
 <div display: "flex">
   <img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=python"/>
@@ -25,6 +16,15 @@
 [<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
 <img height="48px" width="48px" alt="Icone cass" src="https://skillicons.dev/icons?i=powershell"/>
 <img height="48px" width="48px" alt="Icone css" src="https://skillicons.dev/icons?i=vite"/>
+
+<div align="center">
+  <a href="https://github.com/CarlosSeixas2">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosSeixas2&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/CarlosSeixas2">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSeixas2&layout=compact&langs_count=7&theme=dark" alt="Top Languages"/>
+  </a>
+</div>
 
 ## Experiência de trabalho
 

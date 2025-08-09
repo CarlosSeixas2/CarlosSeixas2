@@ -6,6 +6,12 @@ Desenvolvedor Full Stack e entusiasta de Inteligência Artificial, com experiên
 
 ---
 
+## 🌐 Portfólio
+📁 Confira meus projetos e trabalhos completos:  
+**[🔗 Acessar Portfólio](https://portifoliocarlosseixas.vercel.app/)**
+
+---
+
 ## 🚀 Stack Principal
 <div>
   <img height="48px" alt="Python" src="https://skillicons.dev/icons?i=python"/>
@@ -72,12 +78,6 @@ Março de 2021 - Fevereiro de 2025 \
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSeixas2&layout=compact&langs_count=7&theme=dark" alt="Top Languages"/>
   </a>
 </div>
-
----
-
-## 🌐 Portfólio
-📁 Confira meus projetos e trabalhos completos:  
-**[🔗 Acessar Portfólio](https://portifoliocarlosseixas.vercel.app/)**
 
 ---
 

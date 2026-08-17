@@ -14,16 +14,14 @@ Desenvolvedor Full Stack e entusiasta de Inteligência Artificial, com experiên
 
 ## 🚀 Stack Principal
 <div>
+  <img height="48px" alt="Docker" src="https://skillicons.dev/icons?i=docker"/>
   <img height="48px" alt="Python" src="https://skillicons.dev/icons?i=python"/>
+  <img height="48px" alt="React" src="https://skillicons.dev/icons?i=react"/>
+  <img height="48px" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs"/>
   <img height="48px" alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/>
   <img height="48px" alt="JavaScript" src="https://skillicons.dev/icons?i=js"/>
-  <img height="48px" alt="React" src="https://skillicons.dev/icons?i=react"/>
-  <img height="48px" alt="React Native" src="https://skillicons.dev/icons?i=react"/>
-  <img height="48px" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs"/>
-  <img height="48px" alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi"/>
   <img height="48px" alt="Django" src="https://skillicons.dev/icons?i=django"/>
-  <img height="48px" alt="Flutter" src="https://skillicons.dev/icons?i=flutter"/>
-  <img height="48px" alt="Docker" src="https://skillicons.dev/icons?i=docker"/>
+  <img height="48px" alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi"/>
   <img height="48px" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>
   <img height="48px" alt="SQLite" src="https://skillicons.dev/icons?i=sqlite"/>
 </div>

@@ -37,12 +37,12 @@ Desenvolvedor Full Stack e entusiasta de Inteligência Artificial, com experiên
 
 ## 💼 Experiência Profissional
 
-<img align="left" height="94px" width="94px" alt="RGM" src="https://portifoliocarlosseixas.vercel.app/assets/logo_rgm-Cs_6FNkm.jpeg"/>
+<img align="left" height="94px" width="94px" alt="Bluey" src="https://portifoliocarlosseixas.vercel.app/assets/bluey-logo.png"/>
 
-**RGM Tecnologia** \
-[**Inteligência Artificial com LGPD**] • Trabalho Meio Período \
-Junho de 2023 - Julho de 2025 \
-Linguagens & Tecnologias: `Python`
+**Bluey Data** \
+[**Desenvolvimento Full Stack**] • Trabalho Integral \
+Agosto de 2025 - Presente \
+Linguagens & Tecnologias: `React` `TypeScript` `Python` `FastAPI` `Docker` `PostgreSQL`
 <br/>
 <br/>
 
@@ -51,25 +51,27 @@ Linguagens & Tecnologias: `Python`
 **RGM Tecnologia** \
 [**Inteligência Artificial com LGPD**] • Trabalho Meio Período \
 Junho de 2023 - Julho de 2025 \
-Linguagens & Tecnologias: `Python`
+Linguagens & Tecnologias: `Python` `IA` `APIs`
 <br/>
 <br/>
 
-<img align="left" height="94px" width="94px" alt="RGM" src="https://portifoliocarlosseixas.vercel.app/assets/logo_rgm-Cs_6FNkm.jpeg"/>
+<img align="left" height="94px" width="94px" alt="Didakta" src="./assets/didakta-logo.png"/>
 
-**RGM Tecnologia** \
-[**Inteligência Artificial com LGPD**] • Trabalho Meio Período \
-Junho de 2023 - Julho de 2025 \
-Linguagens & Tecnologias: `Python`
+**Didakta** \
+[**Desenvolvimento Full Stack**] • Freelancer \
+[**Período**] \
+Desenvolvimento de aplicações web, implementação de novas funcionalidades e integração entre frontend e backend. \
+Linguagens & Tecnologias: `React` `TypeScript` `Python` `APIs`
 <br/>
 <br/>
 
-<img align="left" height="94px" width="94px" alt="RGM" src="https://portifoliocarlosseixas.vercel.app/assets/logo_rgm-Cs_6FNkm.jpeg"/>
+<img align="left" height="94px" width="94px" alt="Lemos Energia" src="./assets/lemos-logo.png"/>
 
-**RGM Tecnologia** \
-[**Inteligência Artificial com LGPD**] • Trabalho Meio Período \
-Junho de 2023 - Julho de 2025 \
-Linguagens & Tecnologias: `Python`
+**Lemos Energia** \
+[**Desenvolvimento Full Stack & Mobile**] • Freelancer \
+[**Período**] \
+Desenvolvimento de aplicativo mobile com funcionamento offline, persistência local de dados e sincronização com o backend. \
+Linguagens & Tecnologias: `Python` `Django Ninja` `React Native` `Expo` `SQLite` `Nginx`
 <br/>
 <br/>
 

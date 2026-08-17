@@ -15,23 +15,30 @@ Desenvolvedor Full Stack e entusiasta de Inteligência Artificial, com experiên
 ## 🚀 Stack Principal
 <div>
   <img height="48px" alt="Python" src="https://skillicons.dev/icons?i=python"/>
-  <img height="48px" alt="React" src="https://skillicons.dev/icons?i=react"/>
-  <img height="48px" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs"/>
   <img height="48px" alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/>
   <img height="48px" alt="JavaScript" src="https://skillicons.dev/icons?i=js"/>
-  <img height="48px" alt="Docker" src="https://skillicons.dev/icons?i=docker"/>
+  <img height="48px" alt="React" src="https://skillicons.dev/icons?i=react"/>
+  <img height="48px" alt="React Native" src="https://skillicons.dev/icons?i=react"/>
+  <img height="48px" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs"/>
+  <img height="48px" alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi"/>
+  <img height="48px" alt="Django" src="https://skillicons.dev/icons?i=django"/>
   <img height="48px" alt="Flutter" src="https://skillicons.dev/icons?i=flutter"/>
+  <img height="48px" alt="Docker" src="https://skillicons.dev/icons?i=docker"/>
+  <img height="48px" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>
+  <img height="48px" alt="SQLite" src="https://skillicons.dev/icons?i=sqlite"/>
 </div>
 
 ---
 
 ## 🛠 Ferramentas de Trabalho
-[<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-[<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
-[<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
-<img height="48px" width="48px" alt="Icone cass" src="https://skillicons.dev/icons?i=powershell"/>
-<img height="48px" width="48px" alt="Icone css" src="https://skillicons.dev/icons?i=vite"/>
+[<img height="48px" width="48px" alt="GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+[<img height="48px" width="48px" alt="Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+[<img height="48px" width="48px" alt="VS Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
+[<img height="48px" width="48px" alt="Postman" src="https://skillicons.dev/icons?i=postman"/>](https://www.postman.com/)
+<img height="48px" width="48px" alt="Vite" src="https://skillicons.dev/icons?i=vite"/>
+<img height="48px" width="48px" alt="Nginx" src="https://skillicons.dev/icons?i=nginx"/>
+<img height="48px" width="48px" alt="Linux" src="https://skillicons.dev/icons?i=linux"/>
+<img height="48px" width="48px" alt="PowerShell" src="https://skillicons.dev/icons?i=powershell"/>
 
 ---
 

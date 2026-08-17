@@ -7,8 +7,8 @@ Desenvolvedor Full Stack e entusiasta de Inteligência Artificial, com experiên
 ---
 
 ## 🌐 Portfólio
-📁 Confira meus projetos e trabalhos aqui!
-**[🔗 Acessar Portfólio](https://portifoliocarlosseixas.vercel.app/)**
+📁 Confira meus projetos e trabalhos aqui! <br/>
+**[🔗 Meu Portfólio](https://portifoliocarlosseixas.vercel.app/)**
 
 ---
 

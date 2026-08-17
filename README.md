@@ -37,11 +37,11 @@ Desenvolvedor Full Stack e entusiasta de Inteligência Artificial, com experiên
 
 ## 💼 Experiência Profissional
 
-<img align="left" height="94px" width="94px" alt="Bluey" src="https://portifoliocarlosseixas.vercel.app/assets/bluey-logo.png"/>
+<img align="left" height="94px" width="94px" alt="Bluey" src="http://localhost:5173/src/assets/Bluey.ico"/>
 
 **Bluey Data** \
 [**Desenvolvimento Full Stack**] • Trabalho Integral \
-Agosto de 2025 - Presente \
+Agosto de 2025 - Agosto de 2026 \
 Linguagens & Tecnologias: `React` `TypeScript` `Python` `FastAPI` `Docker` `PostgreSQL`
 <br/>
 <br/>
@@ -55,7 +55,7 @@ Linguagens & Tecnologias: `Python` `IA` `APIs`
 <br/>
 <br/>
 
-<img align="left" height="94px" width="94px" alt="Didakta" src="./assets/didakta-logo.png"/>
+<img align="left" height="94px" width="94px" alt="Didakta" src="http://localhost:5173/src/assets/Didakta.jpeg"/>
 
 **Didakta** \
 [**Desenvolvimento Full Stack**] • Freelancer \
@@ -65,7 +65,7 @@ Linguagens & Tecnologias: `React` `TypeScript` `Python` `APIs`
 <br/>
 <br/>
 
-<img align="left" height="94px" width="94px" alt="Lemos Energia" src="./assets/lemos-logo.png"/>
+<img align="left" height="94px" width="94px" alt="Lemos Energia" src="http://localhost:5173/src/assets/lemos.png"/>
 
 **Lemos Energia** \
 [**Desenvolvimento Full Stack & Mobile**] • Freelancer \

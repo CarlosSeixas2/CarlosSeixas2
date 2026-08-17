@@ -39,20 +39,37 @@ Desenvolvedor Full Stack e entusiasta de Inteligência Artificial, com experiên
 
 <img align="left" height="94px" width="94px" alt="Bluey" src="https://portifoliocarlosseixas.vercel.app/assets/Bluey-D1eK6KFP.ico"/>
 
-**Bluey Data & Consulting Services** 
-[**Desenvolvimento Full Stack & Inteligência Artificial**] • Trabalho Integral 
-Agosto de 2025 - Agosto de 2026 
-Linguagens & Tecnologias: `React` `TypeScript` `Python` `FastAPI` `Docker` `PostgreSQL`
-
+Bluey Data & Consulting Services
+[Desenvolvimento Full Stack & Inteligência Artificial] • Trabalho Integral
+Agosto de 2025 - Presente
+Linguagens & Tecnologias: React TypeScript Python FastAPI Docker PostgreSQL
 <br/>
 <br/>
 
 <img align="left" height="94px" width="94px" alt="RGM" src="https://portifoliocarlosseixas.vercel.app/assets/logo_rgm-Cs_6FNkm.jpeg"/>
 
-**RGM Tecnologia** \
-[**Inteligência Artificial com LGPD**] • Trabalho Meio Período \
-Junho de 2023 - Julho de 2025 \
-Linguagens & Tecnologias: `Python`
+RGM Tecnologia
+[Inteligência Artificial com LGPD] • Trabalho Meio Período
+Junho de 2023 - Julho de 2025
+Linguagens & Tecnologias: Python
+<br/>
+<br/>
+
+<img align="left" height="94px" width="94px" alt="Didakta" src="https://portifoliocarlosseixas.vercel.app/assets/Didakta-BEhbtXnr.jpeg"/>
+
+Didakta
+[Desenvolvimento de Software] • Freelancer
+[Período]
+Linguagens & Tecnologias: React TypeScript Python
+<br/>
+<br/>
+
+<img align="left" height="94px" width="94px" alt="Lemos Energia" src="[./assets/lemos-logo.png](https://portifoliocarlosseixas.vercel.app/assets/lemos-ChhUD5nD.png)"/>
+
+Lemos Energia
+[Desenvolvimento Full Stack & Mobile] • Freelancer
+[Período]
+Linguagens & Tecnologias: Python Django Ninja React Native Expo SQLite Nginx
 <br/>
 <br/>
 

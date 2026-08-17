@@ -37,7 +37,7 @@ Desenvolvedor Full Stack e entusiasta de Inteligência Artificial, com experiên
 
 ## 💼 Experiência Profissional
 
-<img align="left" height="94px" width="94px" alt="Bluey" src="[https://bluey.digital/assets/logo.png](https://media.licdn.com/dms/image/v2/D4E0BAQGxW3D9a_SXTQ/company-logo_200_200/company-logo_200_200/0/1710368043340?e=1788393600&v=beta&t=6DNrRX2CXw5XqzXxidQ85VC0MrqqSwX6YA2Q9SqctNw)"/>
+<img align="left" height="94px" width="94px" alt="Bluey" src="https://portifoliocarlosseixas.vercel.app/assets/Bluey-D1eK6KFP.ico"/>
 
 **Bluey Data & Consulting Services** 
 [**Desenvolvimento Full Stack & Inteligência Artificial**] • Trabalho Integral 

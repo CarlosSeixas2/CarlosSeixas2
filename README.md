@@ -60,7 +60,6 @@ Linguagens & Tecnologias: `Python` `IA` `APIs`
 **Didakta** \
 [**Desenvolvimento Full Stack**] • Freelancer \
 [**Período**] \
-Desenvolvimento de aplicações web, implementação de novas funcionalidades e integração entre frontend e backend. \
 Linguagens & Tecnologias: `React` `TypeScript` `Python` `APIs`
 <br/>
 <br/>
@@ -70,7 +69,6 @@ Linguagens & Tecnologias: `React` `TypeScript` `Python` `APIs`
 **Lemos Energia** \
 [**Desenvolvimento Full Stack & Mobile**] • Freelancer \
 [**Período**] \
-Desenvolvimento de aplicativo mobile com funcionamento offline, persistência local de dados e sincronização com o backend. \
 Linguagens & Tecnologias: `Python` `Django Ninja` `React Native` `Expo` `SQLite` `Nginx`
 <br/>
 <br/>

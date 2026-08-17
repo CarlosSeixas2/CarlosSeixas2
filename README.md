@@ -59,7 +59,7 @@ Linguagens & Tecnologias: `Python` `IA` `APIs`
 
 **Didakta** \
 [**Desenvolvimento Full Stack**] • Freelancer \
-[**Período**] \
+Junho de 2025 - Setembro de 2025 \
 Linguagens & Tecnologias: `React` `TypeScript` `Python` `APIs`
 <br/>
 <br/>
@@ -68,7 +68,7 @@ Linguagens & Tecnologias: `React` `TypeScript` `Python` `APIs`
 
 **Lemos Energia** \
 [**Desenvolvimento Full Stack & Mobile**] • Freelancer \
-[**Período**] \
+Janeiro de 2023 - Março de 2025 \
 Linguagens & Tecnologias: `Python` `Django Ninja` `React Native` `Expo` `SQLite` `Nginx`
 <br/>
 <br/>

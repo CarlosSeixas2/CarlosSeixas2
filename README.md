@@ -37,12 +37,13 @@ Desenvolvedor Full Stack e entusiasta de Inteligência Artificial, com experiên
 
 ## 💼 Experiência Profissional
 
-<img align="left" height="94px" width="94px" alt="RGM" src="https://portifoliocarlosseixas.vercel.app/assets/Eliseu-DXX258VE.jpeg"/>
+<img align="left" height="94px" width="94px" alt="Bluey" src="https://bluey.digital/assets/logo.png"/>
 
-**Elizeu Martins** \
-[**Desenvolvimento Mobile**] • Trabalho Integral \
-Agosto de 2025 - Presente \
-Linguagens & Tecnologias: `Dart` `Flutter`
+**Bluey Data & Consulting Services** 
+[**Desenvolvimento Full Stack & Inteligência Artificial**] • Trabalho Integral 
+Agosto de 2025 - Agosto de 2026 
+Linguagens & Tecnologias: `React` `TypeScript` `Python` `FastAPI` `Docker` `PostgreSQL`
+
 <br/>
 <br/>
 
@@ -63,7 +64,7 @@ Linguagens & Tecnologias: `Python`
 
 **Instituto Federal do Piaui** \
 [**Tecnólogo**] • Análise e Desenvolvimento de Sistemas \
-Março de 2021 - Fevereiro de 2025 \
+Março de 2022 - Fevereiro de 2025 \
 <br/>
 <br/>
 

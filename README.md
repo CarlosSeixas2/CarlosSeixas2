@@ -37,7 +37,7 @@ Desenvolvedor Full Stack e entusiasta de Inteligência Artificial, com experiên
 
 ## 💼 Experiência Profissional
 
-<img align="left" height="94px" width="94px" alt="Bluey" src="http://localhost:5173/src/assets/Bluey.ico"/>
+<img align="left" height="94px" width="94px" alt="Bluey" src="https://portifoliocarlosseixas.vercel.app/assets/Bluey-D1eK6KFP.ico"/>
 
 **Bluey Data** \
 [**Desenvolvimento Full Stack**] • Trabalho Integral \
@@ -55,7 +55,7 @@ Linguagens & Tecnologias: `Python` `IA` `APIs`
 <br/>
 <br/>
 
-<img align="left" height="94px" width="94px" alt="Didakta" src="http://localhost:5173/src/assets/Didakta.jpeg"/>
+<img align="left" height="94px" width="94px" alt="Didakta" src="https://portifoliocarlosseixas.vercel.app/assets/Didakta-BEhbtXnr.jpeg"/>
 
 **Didakta** \
 [**Desenvolvimento Full Stack**] • Freelancer \
@@ -65,7 +65,7 @@ Linguagens & Tecnologias: `React` `TypeScript` `Python` `APIs`
 <br/>
 <br/>
 
-<img align="left" height="94px" width="94px" alt="Lemos Energia" src="http://localhost:5173/src/assets/lemos.png"/>
+<img align="left" height="94px" width="94px" alt="Lemos Energia" src="https://portifoliocarlosseixas.vercel.app/assets/lemos-ChhUD5nD.png"/>
 
 **Lemos Energia** \
 [**Desenvolvimento Full Stack & Mobile**] • Freelancer \

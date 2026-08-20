@@ -56,7 +56,7 @@ Linguagens & Tecnologias: `React` `TypeScript` `Python` `FastAPI` `Docker` `Post
 **RGM Tecnologia** \
 [**Inteligência Artificial com LGPD**] • Trabalho Meio Período \
 Junho de 2023 - Julho de 2025 \
-Linguagens & Tecnologias: `Python` `IA` `APIs`
+Linguagens & Tecnologias: `Python` `IA` `APIRestFull` `Docker` `Nginx`
 <br/>
 <br/>
 
